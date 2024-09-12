@@ -26,7 +26,8 @@
 
 ###
 
-<p align="left">🔭 I’m working on an E-Learning Platform.<br> 
+<p align="left">🔭 I’m working on an <a href="https://github.com/AbdoAssall/e-learning-platform" target="_blank">E-Learning Platform</a>.
+  <br> 
   📚 I'm currently learning React<br>
   🤝 I’m available for freelancing.<br>
   📫 How to reach me <a href="mailto:abdoassal85@gmail.com">abdoassal85@gmail.com</a>

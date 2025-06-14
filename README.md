@@ -31,6 +31,9 @@
   📚 I'm currently learning React<br>
   🤝 I’m available for freelancing.<br>
   📫 How to reach me <a href="mailto:abdoassal85@gmail.com">abdoassal85@gmail.com</a>
+  <br>
+  🌐 My portfolio 👇 
+  https://abdoassal-portfolio.netlify.app/
 </p>
 
 ###

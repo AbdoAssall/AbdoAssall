@@ -33,7 +33,7 @@
   📫 How to reach me <a href="mailto:abdoassal85@gmail.com">abdoassal85@gmail.com</a>
   <br>
   🌐 My portfolio 👇 
-  https://abdoassal-portfolio.netlify.app/
+  https://abdoassal.netlify.app/
 </p>
 
 ###
